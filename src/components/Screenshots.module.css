@@ -1,0 +1,35 @@
+.screenshotsContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: var(--ifm-leading);
+}
+  
+.screenshot {
+  min-width: 205px;
+
+  /* From Figma specs */
+  filter: drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.15));
+  /* Empirical minimum for Pixel 4 XL rounded corner clipping */
+  border-radius: 19px;
+  /* Figma reports 20px, but that doesn't work in CSS */
+  margin: 15px;
+}
+
+.screenshotContainer {
+  text-align: center;
+}
+
+.screenshotCaption {
+  color: var(--ifm-color-content-secondary);
+}
+
+.screenshotLarge {
+  min-width: 300px;
+
+  /* From Figma specs */
+  box-shadow: 0px 4px 18px 2px rgba(0, 0, 0, 0.25);
+  /* Empirical minimum for Pixel 4 XL rounded corner clipping */
+  border-radius: 29px;
+  margin: 20px;
+}

@@ -1,0 +1,37 @@
+/**
+ * Global Infinima styles
+ */
+
+@import "fonts.css";
+
+:root {
+  --ifm-code-font-size: 95%;
+}
+
+html[data-theme="light"] {
+  --ifm-color-primary: #365cd3;
+  --ifm-color-primary-dark: #2b50c4;
+  --ifm-color-primary-darker: #284bb9;
+  --ifm-color-primary-darkest: #213e98;
+  --ifm-color-primary-light: #4c6ed8;
+  --ifm-color-primary-lighter: #5776da;
+  --ifm-color-primary-lightest: #7791e1;
+}
+
+html[data-theme="dark"] {
+  --ifm-color-primary: #749cff;
+  --ifm-color-primary-dark: #4f82ff;
+  --ifm-color-primary-darker: #3c74ff;
+  --ifm-color-primary-darkest: #054dff;
+  --ifm-color-primary-light: #99b6ff;
+  --ifm-color-primary-lighter: #acc4ff;
+  --ifm-color-primary-lightest: #e3ebff;
+
+  --ifm-color-content-secondary: #939393;
+}
+
+.docusaurus-highlight-code-line {
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
