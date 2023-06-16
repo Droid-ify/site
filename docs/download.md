@@ -13,21 +13,59 @@ You can download the latest version of Droid-ify from the [GitHub release page](
 ## Available Languages
 
 Droid-ify is available in the following languages:
-- Brazillian Portugese
+
 - English
+- Arabic
+- Arabic (Saudi Arabia)
+- Azerbaijani
+- Basque
+- Bengali
+- Bulgarian
+- Catalan
+- Chinese (Simplified)
+- Chinese (Traditional)
+- Croatian
+- Czech
+- Dutch
+- Estonian
 - Finnish
 - French
+- Galician
 - German
 - Greek
+- Hebrew
+- Hindi
 - Hungarian
+- Indonesian
 - Italian
+- Japanese
+- Kabyle
+- Kannada
+- Korean
+- Latvian
+- Lithuanian
+- Malayalam
 - Norwegian Bokmål
-- Peninsular Arabic
+- Norwegian Nynorsk
+- Odia
+- Persian
 - Polish
+- Portuguese
+- Portuguese (Brazil)
+- Portuguese (Portugal)
+- Punjabi
+- Romanian
 - Russian
-- Simplified Chinese
+- Serbian
+- Sinhala
 - Spanish
+- Spanish (Argentina)
+- Swedish
+- Tagalog
 - Turkish
+- Ukrainian
+- Urdu
+- Vietnamese
 
 ## License
 
