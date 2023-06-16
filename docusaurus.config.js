@@ -103,7 +103,7 @@ module.exports = {
             },
             {
               label: 'Telegram',
-              href: 'https://t.me/Droid-ify',
+              href: 'https://t.me/Droidify',
             },
             {
               label: 'Developer',

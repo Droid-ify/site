@@ -16,7 +16,7 @@ Reading [the FAQ](faq.md) saves time for everyone.
 
 ## Telegram groups
 
-- [General](https://t.me/Droid-ify)
+- [General](https://t.me/Droidify)
 
 
 ## GitHub
