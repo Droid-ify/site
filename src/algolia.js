@@ -6,7 +6,7 @@ async function addRecords() {
     // The following options are optional. You can customize them to fit your needs.
     // See https://github.com/leifoolsen/docusaurus-search-local#options for more information.
     docsDir: 'docs',
-    siteDir: '.',
+    siteDir: 'build',
     language: 'en',
     indexBlog: true,
     indexDocs: true,
