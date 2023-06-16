@@ -187,6 +187,9 @@ module.exports = {
   ],
   scripts: process.env.SA_DOMAIN && [
     {
+      postbuild: 'node src/algolia.js',
+    },
+    {
       src: `https://${process.env.SA_DOMAIN}/latest.js`,
       async: true,
       defer: true,
@@ -197,9 +200,6 @@ module.exports = {
       async: true,
       defer: true,
       'data-domain': 'Droid-ify.org',
-    },
-    {
-      postbuild: 'node src/algolia.js',
     }
   ],
 };

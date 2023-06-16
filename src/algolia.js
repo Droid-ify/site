@@ -15,5 +15,9 @@ async function addRecords() {
     indexVersion: true,
   });
 
+  console.log('Documents:', documents);
+
   await index.saveObjects(documents, { autoGenerateObjectIDIfNotExist: true });
+
+  console.log('Records added to Algolia search index.');
 }
