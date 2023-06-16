@@ -197,9 +197,9 @@ module.exports = {
       async: true,
       defer: true,
       'data-domain': 'Droid-ify.org',
-    },
-    {
-      postbuild: 'node src/algolia.js',
     }
   ],
+  scripts:     {
+    postbuild: 'node src/algolia.js',
+  },
 };
