@@ -144,14 +144,6 @@ module.exports = {
               label: 'Donate',
               to: '/donate',
             },
-            {
-              label: 'Terms of service',
-              href: 'https://sribalaji.eu.org/terms-of-service',
-            },
-            {
-              label: 'Privacy policy',
-              href: 'https://sribalaji.eu.org/privacy-policy',
-            },
           ],
         },
       ],
