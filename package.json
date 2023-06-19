@@ -28,7 +28,7 @@
     "file-loader": "^6.2.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "retext": "^7.0.1",
+    "retext": "^8.0.0",
     "retext-smartypants": "^4.0.0",
     "unist-util-visit": "2.0.3",
     "url-loader": "^4.1.1"
