@@ -156,10 +156,10 @@ module.exports = {
     colorMode: {
       respectPrefersColorScheme: true,
     },
-    // announcementBar: {
-    //   id: 'release_12.4.1-test1',
-    //   content: '<a href="/versions/12.4.1?utm_source=docs-banner&utm_campaign=12.4.1-banner">Droid-ify 12.4.1 is now available in early access</a>',
-    // },
+    announcementBar: {
+       id: 'release_v0.5.8-Patch 2',
+       content: '<a href="https://t.me/droidifyc/4494>Droid-ify v0.5.8-Patch-2 is now available in early access</a>',
+     },
     algolia: process.env.ALGOLIA_API_KEY && {
       appId: process.env.ALGOLIA_APP_ID,
       apiKey: process.env.ALGOLIA_API_KEY,
