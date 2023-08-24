@@ -158,7 +158,7 @@ module.exports = {
     },
     announcementBar: {
        id: 'release_v0.5.8-Patch 2',
-       content: '<a href="https://t.me/droidifyc/4494>Droid-ify v0.5.8-Patch-2 is now available in early access</a>',
+       content: 'Droid-ify v0.5.8-Patch-2 is now available in early access',
      },
     algolia: process.env.ALGOLIA_API_KEY && {
       appId: process.env.ALGOLIA_APP_ID,
