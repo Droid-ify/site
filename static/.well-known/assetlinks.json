@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.looker.droidify.debug",
+    "sha256_cert_fingerprints":
+    ["AA:F7:17:8B:0A:33:10:36:6D:D3:97:14:A2:E1:38:01:1A:55:23:17:0D:5E:18:A1:E7:EA:2E:EB:8C:03:17:C4"]
+  }
+}]
