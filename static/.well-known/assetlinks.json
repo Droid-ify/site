@@ -1,0 +1,25 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.looker.droidify.debug",
+    "sha256_cert_fingerprints":
+    ["AA:F7:17:8B:0A:33:10:36:6D:D3:97:14:A2:E1:38:01:1A:55:23:17:0D:5E:18:A1:E7:EA:2E:EB:8C:03:17:C4"]
+  }
+},{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.looker.droidify.alpha",
+    "sha256_cert_fingerprints":
+    ["AA:F7:17:8B:0A:33:10:36:6D:D3:97:14:A2:E1:38:01:1A:55:23:17:0D:5E:18:A1:E7:EA:2E:EB:8C:03:17:C4"]
+  }
+},{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.looker.droidify",
+    "sha256_cert_fingerprints":
+    ["ED:88:59:C5:5A:F3:11:16:26:58:B9:4A:F9:82:B9:F0:91:DC:D2:76:28:D4:DE:34:86:D1:21:7E:BF:3C:99:35"]
+  }
+}]
