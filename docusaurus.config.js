@@ -157,8 +157,8 @@ module.exports = {
       respectPrefersColorScheme: true,
     },
     announcementBar: {
-       id: 'release_v0.5.8-Patch 2',
-       content: 'Droid-ify v0.5.8-Patch-2 is now available in early access',
+       id: 'release_v0.5.8-Patch 4',
+       content: 'Droid-ify v0.5.8 Patch-4 is now available',
      },
     algolia: process.env.ALGOLIA_API_KEY && {
       appId: process.env.ALGOLIA_APP_ID,
