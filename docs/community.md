@@ -21,7 +21,7 @@ Reading [the FAQ](faq.md) saves time for everyone.
 
 ## GitHub
 
-Please report bugs and other issues [on GitHub](https://github.com/Droid-ify/Droid-ify/issues/new).
+Please report bugs and other issues [on GitHub](https://github.com/Droid-ify/client/issues/new).
 
 ## Other support channels
 
