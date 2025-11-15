@@ -23,6 +23,12 @@ Reading [the FAQ](faq.md) saves time for everyone.
 
 Please report bugs and other issues [on GitHub](https://github.com/Droid-ify/client/issues/new).
 
+
+## Hosted Wablate
+
+Please join the [Hosted Weblate](https://hosted.weblate.org/engage/droidify/) translation platform to help translate Droid-ify.
+
+
 ## Other support channels
 
 If you don't want to use any of the public platform, you can also [email us](mailto:) for support. Replies are provided on a best-effort basis.
