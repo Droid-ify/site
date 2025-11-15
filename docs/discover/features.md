@@ -14,6 +14,7 @@ import Screenshots from '../../src/components/Screenshots';
 - **Smooth user experience:** The app is designed to offer a seamless and user-friendly experience, making it easy to browse and install F-Droid apps.
 - **Feature-rich:** Droid-ify offers a comprehensive set of functionalities, including app search, category exploration, and management of installed applications.
 - **Open-source:** Droid-ify is an open-source project, which means that anyone can contribute to the development of the app and help improve it.
+- **Multilingual:** Droid-ify is already translated into many languages. If your language is missing or incomplete join the [Hosted Weblate](https://hosted.weblate.org/engage/droidify/) translation platform to help translate Droid-ify.
 - **App verification:** Droid-ify includes a robust app verification process, ensuring the authenticity and integrity of the apps available on F-Droid.
 - **Privacy-focused apps:** Droid-ify curates a selection of privacy-focused apps from the F-Droid repository, providing access to apps that prioritize privacy and security.
 - **Enhanced privacy settings:** Droid-ify offers additional privacy settings within the app, allowing fine-grained control over permissions, ad-blocking, and privacy-enhancing tweaks.
