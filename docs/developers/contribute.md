@@ -16,8 +16,6 @@ To submit patches, fork the target repository and open a pull request on GitHub 
 
 To translate Droid-ify into your language, join the [Hosted Weblate](https://hosted.weblate.org/engage/droidify/) translation platform.
 
-fork the target repository and open a pull request on GitHub with your changes. We do not currently have a Gerrit code review instance.
-
 ## Licensing
 
 As per standard conventions, all contributed code will be licensed under the same license as the code that is being modified. New files will inherit the repository's license, which is usually defined in either the `LICENSE` or `NOTICE` files at the root of the repository.
