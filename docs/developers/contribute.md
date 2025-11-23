@@ -14,7 +14,7 @@ To submit patches, fork the target repository and open a pull request on GitHub 
 
 ## Translating the app
 
-To translate Droid-ify into your language, join the [Hosted Weblate](https://hosted.weblate.org/engage/droidify/) translation platform.
+The translation status of Droid-ify can be checked to see the progress of translating the app into different languages. If you are proficient in a language that is not fully translated, you can contribute by providing translations at [Hosted Weblate](https://hosted.weblate.org/engage/droidify/) to make the app accessible to a wider audience.
 
 ## Licensing
 
