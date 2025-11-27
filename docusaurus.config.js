@@ -19,7 +19,7 @@ function remarkSmartypants(options) {
 
 module.exports = {
   title: 'Droid-ify',
-  tagline: 'Minimal F-droid client for design and performance',
+  tagline: 'Minimal multilingual F-droid client for design and performance',
   url: 'https://Droid-ify.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -108,6 +108,10 @@ module.exports = {
             {
               label: 'Developer',
               href: 'https://sribalaji.eu.org/',
+            },
+            {
+              label: 'Translations',
+              href: 'https://hosted.weblate.org/engage/droidify/',
             },
             {
               label: 'More',

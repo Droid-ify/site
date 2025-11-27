@@ -12,6 +12,10 @@ All contributions are subject to review in order to enforce quality standards. A
 
 To submit patches, fork the target repository and open a pull request on GitHub with your changes. We do not currently have a Gerrit code review instance.
 
+## Translating the app
+
+The translation status of Droid-ify can be checked to see the progress of translating the app into different languages. If you are proficient in a language that is not fully translated, you can contribute by providing translations at [Hosted Weblate](https://hosted.weblate.org/engage/droidify/) to make the app accessible to a wider audience.
+
 ## Licensing
 
 As per standard conventions, all contributed code will be licensed under the same license as the code that is being modified. New files will inherit the repository's license, which is usually defined in either the `LICENSE` or `NOTICE` files at the root of the repository.
