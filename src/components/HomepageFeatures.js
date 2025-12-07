@@ -33,7 +33,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_private_data.svg').default,
     description: (
       <>
-        Droid-ify helps keep your data private ,Open-source software,
+        Droid-ify helps keep your data private, Open-source software,
         Independent verification, No mandatory user accounts, Enhanced privacy settings, no ads, no tracking.
         <br />
         <Link to="/features#privacy-and-security">Learn more</Link>
