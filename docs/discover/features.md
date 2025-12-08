@@ -62,7 +62,7 @@ If you want to contribute to Droid-ify, follow these steps:
 
 ## Translations
 
-The translation status of Droid-ify can be checked to see the progress of translating the app into different languages. If you are proficient in a language that is not fully translated, you can contribute by providing translations to make the app accessible to a wider audience.
+The translation status of Droid-ify can be checked to see the progress of translating the app into different languages. If you are proficient in a language that is not fully translated, you can contribute by providing translations at [Hosted Weblate](https://hosted.weblate.org/engage/droidify/) to make the app accessible to a wider audience.
 
 ## License
 
