@@ -1,3 +1,6 @@
+> [!WARNING]
+> Moved to [codeberg](https://codeberg.org/Iamlooker/droidify_pages) and website is moved to https://droidify.app
+
 <div align="center">
 
 <img width="" src="assets/featureGraphic.png" alt="Droid-ify" align="center">
